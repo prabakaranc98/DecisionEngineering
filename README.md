@@ -1,7 +1,3 @@
-# DecisionEngineering
-- applied experiments to the realworld problems around Data &amp; AI 
-
-Note : Experiments might start with any naive questions as well... 
-
-## Phase 1 : Experiments & Projects 
-- What if there a foundational model for recommedations + customer life time value + customer churn ?
+# One Paper at A Time
+- to build my ML applied research and development rigour - I ll just take one paper at a time to build the architectures / adapt the methods
+- also tweak and play around
